@@ -3,7 +3,7 @@
 Backend engineer (Java / Spring) and a serial tinkerer — I work across the
 stack and can't resist poking at whatever's new.
 
-- 🧪 Always messing with something new — lately Claude Code, custom skills, and agent workflows
+- 🧪 Incurable tinkerer — always chasing whatever's new
 - 🔭 Backend by trade; figuring out how to make AI features actually hold up in production
 - 🧰 Java / Spring on the backend, Vue / TypeScript on the front, Python for the AI glue
 - 🧱 Comfortable from database internals up to Docker-based self-hosting
