@@ -1,8 +1,9 @@
 ### Hi, I'm Harry 👋
 
-Backend engineer (Java / Spring) who works across the stack, lately focused on
-**AI integration** — bringing LLMs and voice into real, shippable products.
+Backend engineer (Java / Spring) and a serial tinkerer — I work across the
+stack and can't resist poking at whatever's new.
 
+- 🧪 Always messing with something new — lately Claude Code, custom skills, and agent workflows
 - 🔭 Backend by trade; figuring out how to make AI features actually hold up in production
 - 🧰 Java / Spring on the backend, Vue / TypeScript on the front, Python for the AI glue
 - 🧱 Comfortable from database internals up to Docker-based self-hosting
